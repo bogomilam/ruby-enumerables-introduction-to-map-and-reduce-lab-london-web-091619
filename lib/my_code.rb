@@ -52,7 +52,7 @@ def reduce_to_all_true(source_array)
     if source_array[count] = false
     
     return false
-    count += 1
+  
     end
   end
   return true
